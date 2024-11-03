@@ -13,7 +13,7 @@ This repository contains a web-based application designed to provide insights in
 - **Backend**: Flask
 - **Machine Learning**: Scikit-learn for predictive modeling
 - **APIs**: Integrated for real-time data syncing
-- **Deployment**: Google Cloud (Free Tier) for scalable deployment
+- **Deployment**: Flask for scalable deployment
 
 ## Project Setup
 
