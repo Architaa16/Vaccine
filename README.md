@@ -21,3 +21,10 @@ This repository contains a web-based application designed to provide insights in
    ```bash
    git clone https://github.com/Architaa16/Vaccine.git
    cd Vaccine
+   
+2. Install Required Packages Make sure you have Python installed, then run:
+  ```bash
+   pip install -r requirements.txt
+
+
+
